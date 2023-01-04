@@ -15,8 +15,8 @@ git remote add origin https://github.com/yesrik/fizzbuzz.git
 git push -u origin main
 
 …or push an existing repository from the command line
-git remote add origin https://github.com/yesrik/fizzbuzz.git
-git branch main
+git add README.md
+git commit -m "first commit"
 git push -u origin main
 ================
 ----------------
